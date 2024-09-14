@@ -14,8 +14,8 @@ body {
     top: 0;
     left: 0;
     width: 100%;
-    background-color: #333;
-    color: white;
+    background-color: #1191fa;
+    color: rgb(240, 4, 4);
     padding: 10px 0;
     transition: background-color 0.3s, box-shadow 0.3s;
 }
@@ -31,7 +31,7 @@ body {
 }
 
 #navbar a {
-    color: white;
+    color: rgb(255, 255, 255);
     text-decoration: none;
     font-weight: bold;
     padding: 5px 10px;
@@ -39,7 +39,7 @@ body {
 }
 
 #navbar a:hover {
-    color: #f0f0f0;
+    color: #a10000;
 }
 
 .content {
